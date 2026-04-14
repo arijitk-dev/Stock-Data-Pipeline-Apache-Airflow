@@ -168,6 +168,10 @@ lowest,2023-01-05,900,850,870,80000
 
 ---
 
+## ∆ Image
+<img width="1440" height="758" alt="Screenshot 2026-04-14 at 4 12 56 PM" src="https://github.com/user-attachments/assets/da96973f-f70a-4622-a039-02446f43d88f" />
+
+
 ## ⚠️ Important Notes
 
 - Airflow Variables must store values as **strings**
